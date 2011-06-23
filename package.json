@@ -1,0 +1,14 @@
+{
+    "name": "mutex",
+    "description": "Distributed mutex for nodejs with redis backend",
+    "version": "v0.0.1",
+    "url": "http://github.com/0ctave/node-mutex",
+    "author": "Yuriy Bogdanov <chinsay@gmail.com>",
+    "main": "lib/mutex",
+    "engines": {
+        "node": ">=0.4.5"
+    },
+    "dependencies" : {
+        "redis": ">=0.5.6"
+    }
+}
