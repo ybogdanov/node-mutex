@@ -1,3 +1,7 @@
+# Deprecation Notice
+
+This project has been archived and will no longer receive maintenance or updates. I want to express my gratitude to the entire community for your usage and contributions.
+
 # Warning
 This lib was written for big full-stack JS project [tactoom.com](http://tactoom.com) in 2011 and still works successfully on production.
 
