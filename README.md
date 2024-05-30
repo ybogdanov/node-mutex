@@ -2,13 +2,6 @@
 
 This project has been archived and will no longer receive maintenance or updates. I want to express my gratitude to the entire community for your usage and contributions.
 
-# Warning
-This lib was written for big full-stack JS project [tactoom.com](http://tactoom.com) in 2011 and still works successfully on production.
-
-But I want to warn you, this lib is very old and was highly tested only for node 0.4.x (and with other old shit). It is also proven by using only in one project, so there's no any guarantees at all.
-
-I do not suggest you to use it for something vital.
-
 # Mutex.lock(key, lifetime, callback) / Mutex.free(key, callback)
     
 ```javascript
